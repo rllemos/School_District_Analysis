@@ -58,7 +58,7 @@ In the original analysis Thomas High School had a overall passing % of 91%.After
 
 ![](Images/per_school_summary_df_without_9th_THS.png)
 
-**How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
+### **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
 **Original Analysis:**
 
