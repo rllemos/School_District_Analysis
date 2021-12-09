@@ -19,9 +19,13 @@ After the main analysis which focused on math and reading scores performance the
 - The scores by school spending per student, by school size, and by school type
 
 ###Resources
+
 1.Python version 3.7.6
+
 2.Jupyter Notebook 6.14
+
 3.Anaconda 4.8.3
+
 4.PythonData enviroment
 
 # Results:
