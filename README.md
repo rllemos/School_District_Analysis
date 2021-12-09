@@ -36,18 +36,34 @@ Original Analysis:
 
 Although, we removed less than 500 test scores from the DataFrame the results for average math score, average reading score,%passing math, %passing reading and %overall passing remained relatively unchanged.The numbers would still round to the same whole number.This can be do to the large sample size used for the calculations.
 
+Clean data Analysis:
+
+![](Images/district_summary_df_without_9th_THS.png)
 
 *How is the school summary affected?
 
+Original Analysis:
+
+![](Images/per_school_summary_df_module.png)
+
 In the original analysis Thomas High School had a overall passing % of 91%.After removing the 9th grade scores and calculating the number of 10th-12th grade students and setting that as the new denominator we begin to test the data.When comparing with the original data Thomas High School overall passing % dropped from 91% to 65% a difference of 26%.The passing math % and passing reading % also decreased by approximately 20%.
+
+Clean Analysis:
+![](Images/per_school_summary_df_without_9th_THS.png)
 
 *How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+Original Analysis:
+![](Images/Top_schools_original.png)
+
 After, replacing the ninth graders' math and reading score Thomas High School's performance has decreased average math by 0.0674,decreased % passing math by 0.087,decreased % passing reading by 0.29, decreased % overall passing by 0.318, and increased average reading by 0.0471.
 
+Clean Analysis:
+![](Images/Top_schools_without_9th_THS.png)
 *How does replacing the ninth-grade scores affect the following:
 
-Math and reading scores by grade
+*Math and reading scores by grade
+
 In the original analysis Thomas High School 9th grade had an average math score of 83.6 and average reading score of 83.7.The scores have been replaced by null values and shows up as NaN in the following charts.
 
 *Scores by school spending
