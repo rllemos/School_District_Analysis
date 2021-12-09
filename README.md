@@ -18,15 +18,15 @@ After the main analysis which focused on math and reading scores performance the
 - The average reading score for each grade level from each school
 - The scores by school spending per student, by school size, and by school type
 
-###Resources
+### Resources
 
-1.Python version 3.7.6
+  1.Python version 3.7.6
 
-2.Jupyter Notebook 6.14
+  2.Jupyter Notebook 6.14
 
-3.Anaconda 4.8.3
+  3.Anaconda 4.8.3
 
-4.PythonData enviroment
+  4.PythonData enviroment
 
 # Results:
 
