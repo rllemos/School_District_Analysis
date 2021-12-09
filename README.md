@@ -18,14 +18,20 @@ After the main analysis which focused on math and reading scores performance the
 - The average reading score for each grade level from each school
 - The scores by school spending per student, by school size, and by school type
 
-
+###Resources
+1.Python version 3.7.6
+2.Jupyter Notebook 6.14
+3.Anaconda 4.8.3
+4.PythonData enviroment
 
 # Results:
 
 Specific Ask:
 
 *How is the district summary affected?
+
 Original Analysis:
+
 ![](Images/district_summary_df_module.png)
 
 Although, we removed less than 500 test scores from the DataFrame the results for average math score, average reading score,%passing math, %passing reading and %overall passing remained relatively unchanged.The numbers would still round to the same whole number.This can be do to the large sample size used for the calculations.
