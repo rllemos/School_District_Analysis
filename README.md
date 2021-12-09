@@ -7,9 +7,8 @@ Deliverable 2: Repeat the school district analysis
 Deliverable 3: A written report for the school district analysis (README.md
 
 ## Overview of the school district analysis: 
-##Overview of the school district analysis: 
 
-After the main analysis which focused on math and reading scores performance the School Board reviwed the data and suspects that the data for Thomas High School 9th graders have been alterted.Therefore, they have requested to null the math and reading scores for Thomas High School,9th grade class, while keeping the rest of the data intact.Once the math and reading scores have been replaced with NaNs we will begin the school district analysis again and compare to the original analysis with the 9th grade scores.
+After the main analysis which focused on math and reading scores performance.The School Board reviewed the data and suspects that the data for Thomas High School 9th graders have been alterted.Therefore, they have requested to null the math and reading scores for Thomas High School,9th grade class, while keeping the rest of the data intact.Once the math and reading scores have been replaced with NaNs we will begin the school district analysis again and compare to the original analysis with the 9th grade scores.
 
 ### The School District Analysis will include:
 
@@ -23,9 +22,11 @@ After the main analysis which focused on math and reading scores performance the
 ### Resources
 
   1.Python version 3.7.6
+  
+  2.Jupyter Notebook 6.14
+  
 ###The School District Analysis will include:
 
-  2.Jupyter Notebook 6.14
 -The district summary
 -The school summary
 -The top 5 and bottom 5 performing schools, based on the overall passing rate
