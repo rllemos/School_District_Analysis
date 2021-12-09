@@ -121,7 +121,7 @@ Thomas High School falls under the charter school type.There was no change in th
 ![](Images/type_summary_df_without_9th.png)
 
 ### Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
 
 1. The overall passing % for Thomas High School decreased dramatically from 91% to 65%.
 2. Thomas High School overall ranking dropped from second place to the eight place in the district of 15 schools.
