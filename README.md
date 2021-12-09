@@ -68,19 +68,43 @@ Clean Analysis:
 
 *Math and reading scores by grade
 
+Original Analysis:
+![](Images/reading_math_average_scores_by_grade.png)
+
 In the original analysis Thomas High School 9th grade had an average math score of 83.6 and average reading score of 83.7.The scores have been replaced by null values and shows up as NaN in the following charts.
+
+Clean Analysis:
+![](Images/reading_math_average_scores_by_grade_without_9th.png)
 
 *Scores by school spending
 
+Original Analysis:
+![](Images/spending_summary_df_original.png)
+
 Thomas High School falls under the spending range(per student) of $630-$644.There was no change in the DataFrame overall.However,a small impact could be viewed by formatting the chart to the hundredths place.
+
+Clean Analysis:
+![](Images/spending_summary_df_without_9th.png)
 
 *Scores by school size
 
+Original Analysis:
+![](Images/school_size_summary_df_original.png)
+
 Thomas High School falls under the medium size school(1000-2000).There was no change in the DataFrame overall.However, a small impact could be viewed by formatting the chart to the hundredths place.
+
+Clean Analysis:
+![](Images/size_summary_df_without_9th.png)
 
 *Scores by school type
 
+Original Analysis:
+![](Images/type_summary_df_original.png)
+
 Thomas High School falls under the charter school type.There was no change in the DataFrame overall.However, a small impact could be viewed by formatting the chart to the hundredths place. Its important to note once the values are rounded the values are the same.
+
+Clean Analysis:
+![](Images/type_summary_df_without_9th.png)
 
 ### Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
