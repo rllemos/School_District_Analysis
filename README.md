@@ -1,6 +1,8 @@
 # School_District_Analysis
 Deliverable 1: Replace ninth-grade reading and math scores
+
 Deliverable 2: Repeat the school district analysis
+
 Deliverable 3: A written report for the school district analysis (README.md
 
 ## Overview of the school district analysis: 
@@ -23,6 +25,8 @@ After the main analysis which focused on math and reading scores performance the
 Specific Ask:
 
 *How is the district summary affected?
+Original Analysis:
+![](Images/district_summary_df_module.png)
 
 Although, we removed less than 500 test scores from the DataFrame the results for average math score, average reading score,%passing math, %passing reading and %overall passing remained relatively unchanged.The numbers would still round to the same whole number.This can be do to the large sample size used for the calculations.
 
