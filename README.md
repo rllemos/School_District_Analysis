@@ -127,3 +127,4 @@ Summary: Summarize four changes in the updated school district analysis after re
 2. Thomas High School overall ranking dropped from second place to the eight place in the district of 15 schools.
 3. Math and reading scores for Thomas High School 9Th graders will show up as "NaN".
 4. In addition to the overall passing %, the math and reading averages along with the passing percentages they all had a small shift.
+
