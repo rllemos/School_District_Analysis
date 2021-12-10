@@ -64,7 +64,7 @@ In the original analysis Thomas High School had a overall passing % of 91%.After
 
 ![](Images/Top_schools_original.png)
 
-After, replacing the ninth graders' math and reading score Thomas High School's performance has decreased average math by 0.0674,decreased % passing math by 0.087,decreased % passing reading by 0.29, decreased % overall passing by 0.318, and increased average reading by 0.0471.
+In the original analysis Thomas High School ranked 2nd in the district of 15 schools.After, replacing the ninth graders' math and reading score Thomas High School's performance and ranking declined to the 8th place.
 
 **Updated data Analysis:**
 
